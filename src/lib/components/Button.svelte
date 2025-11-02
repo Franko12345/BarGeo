@@ -14,6 +14,9 @@
 <Sc color={color} click={handleClick} enter={() => {color="#222222"; console.log(color)}}
     out={() => {color="#000000"; console.log(color)}}></Sc>
 
+// LEMBRAR DESSE LINK PARA OS SVGS https://simplemaps.com/svg/country/br#admin1
+
+
 <style>
   button {
     padding: 8px 16px;

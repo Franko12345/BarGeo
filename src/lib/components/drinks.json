@@ -1,0 +1,296 @@
+{
+  "BRAC": {
+    "drink": "Caipirinha de Açaí com Cachaça de Jambu",
+    "ingredientes": [
+      "100 ml de cachaça de jambu",
+      "2 colheres (sopa) de polpa de açaí gelada",
+      "1 colher (sopa) de xarope de guaraná",
+      "Gelo a gosto",
+      "Rodelas de limão para decorar"
+    ],
+    "preparo": "Bata todos os ingredientes no shaker com gelo e sirva em copo baixo decorado com rodelas de limão.",
+    "descricao": "Um drink amazônico e energético, que combina o sabor intenso do açaí com o toque elétrico do jambu, representando a força e vitalidade do Acre."
+  },
+  "BRAL": {
+    "drink": "Batida de Caju com Rapadura",
+    "ingredientes": [
+      "100 ml de cachaça",
+      "1 caju fresco picado",
+      "1 colher (sopa) de rapadura ralada",
+      "Gelo a gosto"
+    ],
+    "preparo": "Bata todos os ingredientes no liquidificador até ficar cremoso e sirva gelado.",
+    "descricao": "Doce e levemente rústico, esse drink alagoano traz o sabor tropical do caju com o doce natural da rapadura, evocando o calor e a hospitalidade nordestina."
+  },
+  "BRAP": {
+    "drink": "Amapiriña de Cupuaçu",
+    "ingredientes": [
+      "60 ml de cachaça",
+      "2 colheres (sopa) de polpa de cupuaçu",
+      "1 colher (sopa) de açúcar",
+      "Gelo triturado"
+    ],
+    "preparo": "Macere o cupuaçu com açúcar, adicione gelo e cachaça e misture bem.",
+    "descricao": "Ácida e exótica, a Amapiriña traz o sabor marcante do cupuaçu, fruta símbolo da Amazônia, com o frescor da caipirinha clássica."
+  },
+  "BRAM": {
+    "drink": "Jungle Tonic de Tucupi e Limão",
+    "ingredientes": [
+      "50 ml de gin amazônico",
+      "10 ml de tucupi concentrado",
+      "Suco de 1 limão",
+      "Água tônica gelada",
+      "Gelo e rodelas de limão"
+    ],
+    "preparo": "Misture o gin, tucupi e suco de limão; complete com tônica e decore com rodelas.",
+    "descricao": "Um gin tônica ousado com notas cítricas e um toque ácido do tucupi, representando a ousadia e os sabores únicos do Amazonas."
+  },
+  "BRBA": {
+    "drink": "Caipifruta de Umbu com Cachaça Baiana",
+    "ingredientes": [
+      "60 ml de cachaça baiana",
+      "3 umbús maduros",
+      "1 colher (sopa) de açúcar",
+      "Gelo a gosto"
+    ],
+    "preparo": "Macere os umbús com açúcar, acrescente a cachaça e o gelo, mexendo bem.",
+    "descricao": "Refrescante e agridoce, celebra o fruto sertanejo do umbu, conhecido como ‘árvore que dá de beber’, símbolo de resistência e sabor do sertão baiano."
+  },
+  "BRCE": {
+    "drink": "Ceará Sunset (Cajuína e Maracujá)",
+    "ingredientes": [
+      "50 ml de vodka",
+      "100 ml de cajuína",
+      "30 ml de suco de maracujá",
+      "Gelo e hortelã"
+    ],
+    "preparo": "Misture tudo em copo alto com gelo e decore com folha de hortelã.",
+    "descricao": "Leve e frutado, une a tradição da cajuína com o toque tropical do maracujá, lembrando o pôr do sol dourado do litoral cearense."
+  },
+  "BRDF": {
+    "drink": "Brasília Spritz (Cerrado Edition)",
+    "ingredientes": [
+      "50 ml de gin do cerrado",
+      "30 ml de licor de pequi",
+      "100 ml de espumante seco",
+      "Gelo e casca de laranja"
+    ],
+    "preparo": "Monte o drink em taça de vinho com gelo e finalize com espumante e casca de laranja.",
+    "descricao": "Elegante e aromático, combina a modernidade de Brasília com o sabor exótico do pequi, fruta símbolo do cerrado."
+  },
+  "BRES": {
+    "drink": "Capixaba Cooler de Jabuticaba",
+    "ingredientes": [
+      "60 ml de cachaça",
+      "6 jabuticabas amassadas",
+      "1 colher (chá) de açúcar",
+      "Água com gás e gelo"
+    ],
+    "preparo": "Macere as jabuticabas, adicione os demais ingredientes e complete com água com gás.",
+    "descricao": "Refrescante e suave, mistura o sabor adocicado da jabuticaba com a leveza do litoral capixaba."
+  },
+  "BRGO": {
+    "drink": "Pequi Sour",
+    "ingredientes": [
+      "50 ml de cachaça de pequi",
+      "20 ml de limão",
+      "10 ml de mel de abelha do cerrado",
+      "Clara de ovo e gelo"
+    ],
+    "preparo": "Bata tudo no shaker sem gelo, depois com gelo, e sirva coado em copo baixo.",
+    "descricao": "Um sour intenso com aroma de pequi e doçura do mel, refletindo os sabores do coração do cerrado goiano."
+  },
+  "BRMA": {
+    "drink": "Buriti Punch",
+    "ingredientes": [
+      "60 ml de rum",
+      "50 ml de polpa de buriti",
+      "20 ml de suco de limão",
+      "Gelo e hortelã"
+    ],
+    "preparo": "Misture no shaker com gelo, sirva e decore com hortelã.",
+    "descricao": "Cremoso e frutado, destaca o buriti — o ‘ouro vermelho’ do Maranhão — em uma mistura tropical e aromática."
+  },
+  "BRMT": {
+    "drink": "Pantanal Mule",
+    "ingredientes": [
+      "50 ml de vodka de mandioca",
+      "Suco de limão",
+      "Gengibre fresco ralado",
+      "Água gaseificada e gelo"
+    ],
+    "preparo": "Monte no copo com gelo, adicione o gengibre e complete com água gaseificada.",
+    "descricao": "Inspirado nas planícies do Pantanal, combina a leveza da vodka artesanal com o toque picante do gengibre."
+  },
+  "BRMS": {
+    "drink": "Tereré Tonic",
+    "ingredientes": [
+      "40 ml de gin",
+      "100 ml de infusão fria de erva-mate",
+      "Rodelas de limão e gelo"
+    ],
+    "preparo": "Misture o gin e o tereré em copo alto com gelo e decore com limão.",
+    "descricao": "Herbal e revigorante, inspirado na tradição do tereré sul-mato-grossense, ideal para os dias quentes do centro-oeste."
+  },
+  "BRMG": {
+    "drink": "Caipirinha de Jabuticaba Mineira",
+    "ingredientes": [
+      "60 ml de cachaça artesanal",
+      "6 jabuticabas",
+      "1 colher (chá) de açúcar",
+      "Gelo"
+    ],
+    "preparo": "Macere as jabuticabas com açúcar, adicione a cachaça e o gelo e sirva.",
+    "descricao": "Doce e intensa, representa o sabor das frutas de quintal e a tradição da boa cachaça mineira."
+  },
+  "BRPA": {
+    "drink": "Caipirinha de Taperebá",
+    "ingredientes": [
+      "60 ml de cachaça paraense",
+      "Polpa de taperebá",
+      "Açúcar e gelo"
+    ],
+    "preparo": "Macere o taperebá com açúcar e gelo, adicione a cachaça e mexa bem.",
+    "descricao": "Ácida e vibrante, traz o sabor marcante do taperebá, fruta típica do Pará, em uma versão amazônica da caipirinha."
+  },
+  "BRPB": {
+    "drink": "Batida de Graviola Nordestina",
+    "ingredientes": [
+      "100 ml de cachaça",
+      "Polpa de graviola",
+      "Leite condensado e gelo"
+    ],
+    "preparo": "Bata tudo no liquidificador e sirva bem gelado.",
+    "descricao": "Cremosa e doce, une o sabor suave da graviola à força da cachaça, uma homenagem ao clima tropical da Paraíba."
+  },
+  "BRPR": {
+    "drink": "Caipirinha de Frutas Vermelhas da Serra",
+    "ingredientes": [
+      "60 ml de cachaça",
+      "Frutas vermelhas frescas",
+      "1 colher (sopa) de açúcar",
+      "Gelo"
+    ],
+    "preparo": "Macere as frutas, adicione a cachaça e gelo e sirva imediatamente.",
+    "descricao": "Refrescante e levemente ácida, inspirada nas frutas de clima frio das serras paranaenses."
+  },
+  "BRPE": {
+    "drink": "Mangaba Sour",
+    "ingredientes": [
+      "50 ml de cachaça",
+      "30 ml de polpa de mangaba",
+      "20 ml de suco de limão",
+      "Clara de ovo e gelo"
+    ],
+    "preparo": "Bata no shaker e sirva coado em taça baixa.",
+    "descricao": "Doce, frutado e com espuma delicada, traduz a tropicalidade e a criatividade pernambucana."
+  },
+  "BRPI": {
+    "drink": "Caju do Sertão",
+    "ingredientes": [
+      "60 ml de cachaça",
+      "1 caju maduro picado",
+      "1 colher (sopa) de açúcar",
+      "Gelo"
+    ],
+    "preparo": "Macere o caju com açúcar e gelo e adicione a cachaça.",
+    "descricao": "Fresco e aromático, representa o sabor típico do sertão piauiense e o perfume inconfundível do caju."
+  },
+  "BRRJ": {
+    "drink": "Carioca Spritz",
+    "ingredientes": [
+      "40 ml de cachaça",
+      "30 ml de maracujá",
+      "Espumante e gelo",
+      "Hortelã"
+    ],
+    "preparo": "Monte na taça, finalize com espumante e decore com hortelã.",
+    "descricao": "Vibrante e tropical, com notas cítricas e espumantes que lembram o verão e o espírito leve do Rio de Janeiro."
+  },
+  "BRRN": {
+    "drink": "Caipifruta de Pitanga Potiguar",
+    "ingredientes": [
+      "50 ml de cachaça",
+      "6 pitangas",
+      "1 colher (chá) de açúcar",
+      "Gelo"
+    ],
+    "preparo": "Macere as pitangas, adicione os demais ingredientes e sirva.",
+    "descricao": "Colorida e aromática, destaca a pitanga — fruta abundante no litoral norte-rio-grandense — com um toque agridoce."
+  },
+  "BRRS": {
+    "drink": "Chimarrão Sour",
+    "ingredientes": [
+      "40 ml de cachaça",
+      "30 ml de infusão forte de chimarrão",
+      "20 ml de suco de limão",
+      "Açúcar e gelo"
+    ],
+    "preparo": "Bata no shaker e sirva em copo baixo com gelo.",
+    "descricao": "Herbal e sofisticado, traduz o costume do chimarrão em uma releitura refrescante e moderna."
+  },
+  "BRRO": {
+    "drink": "Caipirinha de Pupunha",
+    "ingredientes": [
+      "50 ml de cachaça",
+      "Polpa de pupunha cozida",
+      "Açúcar e gelo"
+    ],
+    "preparo": "Macere a pupunha, adicione açúcar e cachaça e misture bem.",
+    "descricao": "Terroso e frutado, revela os sabores amazônicos de Rondônia em um drink cremoso e diferente."
+  },
+  "BRRR": {
+    "drink": "Roraima Passion",
+    "ingredientes": [
+      "60 ml de rum branco",
+      "50 ml de polpa de maracujá-do-mato",
+      "1 colher (sopa) de mel",
+      "Gelo"
+    ],
+    "preparo": "Bata tudo no shaker e sirva com gelo.",
+    "descricao": "Ácido e adocicado, inspirado nas frutas silvestres de Roraima e no calor da floresta."
+  },
+  "BRSC": {
+    "drink": "Brisa Catarinense (Pinhão e Mel)",
+    "ingredientes": [
+      "50 ml de cachaça",
+      "10 ml de licor de pinhão",
+      "1 colher (chá) de mel de flores",
+      "Gelo"
+    ],
+    "preparo": "Misture no copo baixo e decore com lasca de pinhão.",
+    "descricao": "Suave e aromático, combina o mel das abelhas e o sabor único do pinhão, evocando o frio serrano catarinense."
+  },
+  "BRSP": {
+    "drink": "Caipirinha Clássica Paulista",
+    "ingredientes": [
+      "60 ml de cachaça",
+      "1 limão cortado",
+      "2 colheres (chá) de açúcar",
+      "Gelo"
+    ],
+    "preparo": "Macere o limão com açúcar, adicione gelo e cachaça e sirva.",
+    "descricao": "A mais tradicional das caipirinhas, nascida em São Paulo, refrescante, equilibrada e símbolo do Brasil no mundo."
+  },
+  "BRSE": {
+    "drink": "Batida de Mangaba Sergipana",
+    "ingredientes": [
+      "100 ml de cachaça",
+      "50 ml de polpa de mangaba",
+      "Leite condensado e gelo"
+    ],
+    "preparo": "Bata tudo no liquidificador e sirva bem gelado.",
+    "descricao": "Cremosa e tropical, traz o sabor doce e perfumado da mangaba, fruta símbolo de Sergipe."
+  },
+  "BRTO": {
+    "drink": "Cerrado Mule de Pequi",
+    "ingredientes": [
+      "50 ml de cachaça de pequi",
+      "20 ml de suco de limão",
+      "Gengibre e água com gás",
+      "Gelo"
+    ],
+    "preparo": "Misture tudo em copo alto e finalize com uma rodela de limão.",
+    "descricao": "Picante e exótico, combina o aroma intenso do pequi com o frescor do mule clássico, representando o sabor do Tocantins."
+  }
+}

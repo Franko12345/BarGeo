@@ -105,11 +105,11 @@
 
 	/* animação de pop */
 	dialog[open] .panel{
-		animation: pop 320ms cubic-bezier(.2,.9,.2,1);
+		animation: pop 1000ms cubic-bezier(.2,.9,.2,1);
 	}
 	@keyframes pop {
 		from { transform: translateY(6px) scale(.995); opacity: 0; }
-		to   { transform: translateY(0) scale(1); opacity: 1; }
+		to   { transform: translateY(0) scale(1); opacity: 0.6; }
 	}
 
 	.panel-header{
@@ -160,7 +160,7 @@
 		border-radius: 10px;
 		cursor: pointer;
 		font-weight: 600;
-		transition: transform 140ms, box-shadow 140ms;
+		transition: transform 160ms, box-shadow 160ms;
 	}
 	.btn:hover{ transform: translateY(-2px); box-shadow: 0 8px 24px rgba(18,46,78,0.28); }
 
